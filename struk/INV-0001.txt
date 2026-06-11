@@ -1,0 +1,21 @@
+================================================
+       STRUK PESANAN - RESTORAN NUSANTARA       
+================================================
+No. Struk  : INV-0001
+Pelanggan  : Andre
+Meja No.   : 050600902
+Waktu      : 11/06/2026 21:43:54
+------------------------------------------------
+ITEM PESANAN:
+Mie Ayam Bakso
+  x4   @ Rp28000      = Rp112000
+Ayam Penyet
+  x5   @ Rp40000      = Rp200000
+Air Mineral
+  x3   @ Rp5000       = Rp15000
+Kopi Susu
+  x2   @ Rp22000      = Rp44000
+------------------------------------------------
+TOTAL BAYAR : Rp371000
+================================================
+Terima kasih atas kunjungan Anda!

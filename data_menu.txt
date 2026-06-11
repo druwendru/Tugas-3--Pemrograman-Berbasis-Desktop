@@ -1,0 +1,15 @@
+# File Data Menu Restoran Nusantara
+# Format: TIPE,nama,harga,atribut_tambahan...
+MAKANAN,Nasi Goreng Spesial,35000,Nasi,false
+MAKANAN,Mie Ayam Bakso,28000,Mie,false
+MAKANAN,Gado-Gado,25000,Sayuran,true
+MAKANAN,Ayam Penyet,40000,Ayam,false
+MAKANAN,Tempe Mendoan,15000,Snack,true
+MINUMAN,Es Teh Manis,8000,Teh,true
+MINUMAN,Jus Alpukat,18000,Jus,true
+MINUMAN,Kopi Susu,22000,Kopi,true
+MINUMAN,Air Mineral,5000,Air,false
+DISKON,Promo Makan Siang,35000,20,0,Nasi Goreng Spesial,Diskon 20% 
+DISKON,Happy Hour Minuman,22000,15,0,Kopi Susu,Diskon 15% 
+MAKANAN,Pisang Goreng,12000,Makanan,true
+MINUMAN,Thai Tea,17500,Minuman,true
