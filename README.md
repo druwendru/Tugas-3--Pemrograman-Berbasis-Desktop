@@ -1,10 +1,9 @@
-==========================================================
+
   TUGAS PRAKTIK 3 - MANAJEMEN RESTORAN
   Pemrograman Berbasis Desktop - Java
   Nama : Andre Bintang Pramastyo
   NIM  : 050600902
   UPBJJ UT Surabaya
-==========================================================
 
 STRUKTUR PROYEK:
   src/
